@@ -76,7 +76,7 @@ h1, h2, h3 {
 }
 
 .juego {
-    background-image: url(/Imagen/Skincare\ img.JPG);
+    background-image: url(/Css/Imagen/Skincare\ img.JPG);
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
