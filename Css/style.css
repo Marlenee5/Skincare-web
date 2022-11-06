@@ -9,10 +9,7 @@
 
  /*  */
 /* Globales */
-html {
-    font-size: 62.5%;
-    box-sizing: border-box; /* Hack para Box Model */
-}
+
 
 
 body {
@@ -136,4 +133,8 @@ h1, h2, h3 {
 .navegacion-principal a:hover {
     background-color: var(--primario);
     color: var(--oscuro);
+}
+
+.carousel-inner{
+ height: 500px;
 }
